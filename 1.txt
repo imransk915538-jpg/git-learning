@@ -2,3 +2,4 @@ one
 1
 444
 abchd
+checking .git ignore adding this file to git ignore no use becuse this alredy tracking it ,for new file it is good have git ignore
